@@ -14,7 +14,7 @@ Implantação de microsserviços para o desafio da cielo.
 
 # Instruções
 
-Todos os comandos deverão ser executados via terminal.
+O comando deverá ser executado via terminal.
 
 Fazer o checkout via GitHub e na raiz do projeto desafio-backend executar o comando abaixo para criar os conteiners Java e Mysql-server e realizar a carga inicial do banco:
 

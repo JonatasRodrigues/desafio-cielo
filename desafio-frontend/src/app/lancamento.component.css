@@ -1,0 +1,15 @@
+
+h1{
+  color:blue;
+  margin: 8px 0;
+  margin-top: 10px;
+}
+
+.table,
+thead,
+tr,
+tbody,
+th,
+td {
+  text-align: center;
+}

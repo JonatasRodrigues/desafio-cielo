@@ -6,7 +6,7 @@
 
 # Instruções
 
-Todos os comandos deverão ser executado via terminal.
+O comando deverá ser executado via terminal.
 
 Fazer o checkout via GitHub e na raiz do projeto desafio-frontend executar o comando abaixo:
 
